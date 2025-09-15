@@ -15,7 +15,7 @@ const Footer = () => {
           </a>
         ))}
       </div>
-      <p>© 2025 JJK. All rights reserved.</p>
+      <p>&copy; 2025 JJK. All rights reserved.</p>
     </section>
   );
 };

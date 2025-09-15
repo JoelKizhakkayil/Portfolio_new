@@ -88,7 +88,7 @@ const About = () => {
           <div className="z-10 w-[50%]">
             <p className="headtext">Time Zone</p>
             <p className="subtext">
-              I'm based in Delhi, and open to remote work {":)"};
+              I'm based in Delhi, and open to remote work {":)"}
             </p>
           </div>
           <figure className="absolute left-[30%] top-[10%]">
@@ -107,11 +107,18 @@ const About = () => {
         {/* Grid 5 */}
         <div className="grid-default-color grid-5">
           <div className="z-10 w-[50%]">
-            <p className="headText">Teck Stack</p>
+            <p className="headText">Tech Stack</p>
             <p className="subtext">
-              I've worked with a variety of technologies over the years and am still learning new ones.
+              Along with keeping up with the latest trends technologies, I'm also keen in learning multiple languages.
               <br />
-              Here are some of the technologies I've been working with recently:
+              Here are some of the languages I'm familiar with:
+              <br />
+              <ul className="list-disc pl-5">
+                <li>Python</li>
+                <li>C/C++</li>
+                <li>Java</li>
+                <li>JavaScript</li>
+              </ul>
             </p>
           </div>
           <div className="absolute inset-y-0 md:inset-y-9 w-full h-full start-[50%] md:scale-125">
